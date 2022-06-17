@@ -45,7 +45,7 @@ const NIntro = () => {
                   </p>
                   <p data-aos="fade-right" className="i-text">
                     {" "}
-                    I'am <span className="span-name">Abhishek Sukumar</span>
+                    I'm <span className="span-name">Abhishek Sukumar</span>
                   </p>
                   <p data-aos="fade-right" className="i-text-desc">
                   At MASAI School I started to learn programming from scratch. 
